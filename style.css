@@ -19,3 +19,54 @@
     cursor: pointer;
     border: none;
 }
+
+/******catagories-area Start*****/
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1 {
+    background-color: orange;
+}
+.cat2 {
+    background-color: orchid;
+}
+.cat3 {
+    background-color: blue;
+}
+.catagories-area h1 {
+    color: white;
+}
+.catagories-area img {
+    width: 100px;
+}
+/******catagories-area End*****/
+
+
+/*****Shoes-area Start*****/
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+/*****Shoes-area End*****/
+
+/*****Backpack-area Start*****/
+.card-footer {
+    padding: .5rem 1rem;
+    background-color: white;
+    border-top: none;
+}
+/*****Backpack-area End*****/
+
+/*****contact-area start*****/
+#contact {
+    min-height: 300px;
+}
+/*****contact-area End*****/
+
+/*****Footer-area Start*****/
+.footer-area {
+    text-align: center;
+}
+/*****Footer-area End*****/
